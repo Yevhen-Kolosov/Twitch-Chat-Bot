@@ -122,3 +122,5 @@ dist
 *.code-workspace
 
 package-lock.json
+config.json
+README.md

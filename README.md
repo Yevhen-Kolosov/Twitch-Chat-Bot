@@ -21,11 +21,11 @@ The application will do the process of fetching the OAuth token for you, but you
 {
     "twitch": {
         "token_endpoint": "https://id.twitch.tv/oauth2/token",
-        "username": "<chatBotUsername>",
+        "username": "ppsnz",
         "client_id":"<clientID>",
         "client_secret":"<clientSecret>",
         "authorization_code":"<AuthCode>",
-        "channel": "<channel_to_connect_to>"
+        "channel": "ayorichie"
     }
 }
 ```
